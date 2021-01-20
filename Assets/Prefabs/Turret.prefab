@@ -211,7 +211,8 @@ MonoBehaviour:
   enemyTag: Enemy
   partToRotate: {fileID: 1389765769057726636}
   firePoint: {fileID: 305400984036476506}
-  bullet: {fileID: 5664423061152480375, guid: cca4e50959e61a346811e11ca4d0fca9, type: 3}
+  bulletPrefab: {fileID: 5664423061152480375, guid: cca4e50959e61a346811e11ca4d0fca9,
+    type: 3}
 --- !u!1 &6945913090332335448
 GameObject:
   m_ObjectHideFlags: 0
